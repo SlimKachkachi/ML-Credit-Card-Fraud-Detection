@@ -1,2 +1,3 @@
 # Machine Learning  : detection fraude à la carte bancaire
-ML sous scikit learn
+projet issu de Kaggle
+ML sous scikit learn /python
